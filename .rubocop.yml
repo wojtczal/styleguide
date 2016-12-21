@@ -25,7 +25,7 @@ Metrics/CyclomaticComplexity:
   Enabled: true
 Metrics/LineLength:
   Enabled: true
-  Max: 100
+  Max: 120
 Metrics/MethodLength:
   Enabled: true
 Rails/ActionFilter:
