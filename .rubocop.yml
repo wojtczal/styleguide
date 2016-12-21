@@ -1,17 +1,17 @@
 AllCops:
   TargetRubyVersion: 2.3
   Exclude:
+    - '**/*_pb.rb'
     - 'app/controllers/devise_custom/**/*'
+    - 'app/reports/*'
     - 'bin/*'
     - 'config/**/*'
-    - 'app/reports/*'
     - 'Gemfile'
     - 'Guardfile'
     - 'Rakefile'
-    - 'tmp/**/*'
     - 'spec/dummy/**/*'
+    - 'tmp/**/*'
     - 'vendor/bundle/**/*'
-    - '**/*_pb.rb'
 Metrics/AbcSize:
   Enabled: true
   Max: 16
