@@ -33,6 +33,10 @@ Rails/ActionFilter:
   Enabled: false
 Rails/HttpPositionalArguments:
   Enabled: false
+RSpec/MultipleExpectations:
+  Enabled: false
+Rspec/NestedGroups:
+  Enabled: false
 Style/SignalException:
   Enabled: false
 Style/Documentation:
