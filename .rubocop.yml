@@ -35,7 +35,7 @@ Rails/HttpPositionalArguments:
   Enabled: false
 RSpec/MultipleExpectations:
   Enabled: false
-Rspec/NestedGroups:
+RSpec/NestedGroups:
   Enabled: false
 Style/SignalException:
   Enabled: false
