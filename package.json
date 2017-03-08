@@ -1,0 +1,10 @@
+{
+  "name": "eslint-config-betadistrict",
+  "version": "1.0.0",
+  "main": "eslintrc.js",
+  "repository": "git@github.com:beta-district/styleguide.git",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^3"
+  }
+}
