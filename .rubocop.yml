@@ -43,3 +43,9 @@ Style/Documentation:
   Enabled: false
 Style/PredicateName:
   Enabled: false
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%i': ()
+    '%I': ()
+    '%w': ()
+    '%W': ()
