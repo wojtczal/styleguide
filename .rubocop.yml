@@ -43,6 +43,8 @@ Style/Documentation:
   Enabled: false
 Style/PredicateName:
   Enabled: false
+Style/EmptyMethod:
+  EnforcedStyle: expanded
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     '%i': ()
