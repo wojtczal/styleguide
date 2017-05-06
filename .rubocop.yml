@@ -20,6 +20,7 @@ Metrics/BlockLength:
   Enabled: true
   Exclude:
     - 'spec/**/*'
+    - 'app/docs/**/*' # API documentation definitions
 Metrics/ClassLength:
   Enabled: true
 Metrics/CyclomaticComplexity:
