@@ -39,7 +39,7 @@ RSpec/MultipleExpectations:
 RSpec/NestedGroups:
   Enabled: false
 RSpec/MessageSpies:
-  EnforcedStyle: receive
+  Enabled: false
 Style/SignalException:
   Enabled: false
 Style/Documentation:
