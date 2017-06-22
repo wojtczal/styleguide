@@ -38,6 +38,8 @@ RSpec/MultipleExpectations:
   Enabled: false
 RSpec/NestedGroups:
   Enabled: false
+RSpec/MessageSpies:
+  Enabled: false
 Style/SignalException:
   Enabled: false
 Style/Documentation:
