@@ -30,6 +30,8 @@ Metrics/LineLength:
   Max: 120
 Metrics/MethodLength:
   Enabled: true
+Naming/PredicateName:
+  Enabled: false
 Rails/ActionFilter:
   Enabled: false
 Rails/HttpPositionalArguments:
@@ -43,8 +45,6 @@ RSpec/MessageSpies:
 Style/SignalException:
   Enabled: false
 Style/Documentation:
-  Enabled: false
-Style/PredicateName:
   Enabled: false
 Style/EmptyMethod:
   EnforcedStyle: expanded
