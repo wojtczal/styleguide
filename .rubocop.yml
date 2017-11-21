@@ -32,6 +32,8 @@ Metrics/MethodLength:
   Enabled: true
 Naming/PredicateName:
   Enabled: false
+Rails:
+  Enabled: true
 Rails/ActionFilter:
   Enabled: false
 Rails/HttpPositionalArguments:
