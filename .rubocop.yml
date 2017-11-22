@@ -38,6 +38,9 @@ Rails/ActionFilter:
   Enabled: false
 Rails/HttpPositionalArguments:
   Enabled: false
+Rails/SkipsModelValidations:
+  Exclude:
+    - 'db/migrate/**/*.rb'
 RSpec/ExampleLength:
   Max: 10
 RSpec/MultipleExpectations:
