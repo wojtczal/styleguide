@@ -32,10 +32,15 @@ Metrics/MethodLength:
   Enabled: true
 Naming/PredicateName:
   Enabled: false
+Rails:
+  Enabled: true
 Rails/ActionFilter:
   Enabled: false
 Rails/HttpPositionalArguments:
   Enabled: false
+Rails/SkipsModelValidations:
+  Exclude:
+    - 'db/migrate/**/*.rb'
 RSpec/ExampleLength:
   Max: 10
 RSpec/MultipleExpectations:
