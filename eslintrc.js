@@ -20,6 +20,7 @@ module.exports = {
     "no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
     "no-multi-spaces": "warn",
     "no-nested-ternary": "error",
+    "no-trailing-spaces": "warn",
     "no-unused-vars": ["warn", {"vars": "local", "args": "none"}],
     "no-useless-constructor": "warn",
     "no-whitespace-before-property": "warn",
